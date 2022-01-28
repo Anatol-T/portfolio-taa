@@ -1,0 +1,10 @@
+.header {
+    min-height: 80px;
+    background-color: grey ;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+a {
+    display: inline-block;
+}
